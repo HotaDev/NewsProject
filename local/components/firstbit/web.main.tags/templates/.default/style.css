@@ -1,0 +1,14 @@
+.tags {
+    display: flex;
+    flex-flow: row;
+    position: absolute;
+    bottom: 20px;
+}
+
+.tags span {
+    margin-right: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    background: #4AAA50;
+}

@@ -1,0 +1,19 @@
+
+.minor-news {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+}
+
+.minor-news div:last-child {
+    margin-top: 10px;
+}
+
+.minor-news .news .tags span {
+    background: none;
+}
+
+.minor-news .news > div {
+    width: 70%;
+}
+

@@ -1,0 +1,15 @@
+.like-img { 
+    margin-left: 10px;
+    margin-right: 5px;
+    width: 30px; 
+    height: auto; 
+    transition: transform .2s; 
+} 
+ 
+.like-img:hover { 
+    transform: scale(1.5); 
+} 
+ 
+/* .like_block { 
+     margin-top: 350px;  
+   } */
